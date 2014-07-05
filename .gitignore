@@ -1,3 +1,9 @@
+# C# Express bin
+*.suo
+bin/
+obj/
+*.csproj.user  
+
 # Built application files
 *.apk
 *.ap_
