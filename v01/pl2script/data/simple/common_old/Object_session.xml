@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Object_session.xsd" generated="2014-04-18T09:29:56">
+<Object_session>
+<default_id>1</default_id>
+<tag>session_start</tag>
+<property>14</property>
+<object>1</object>
+<current>Начальная сессия</current>
+<enabled>1</enabled>
+<visible>1</visible>
+</Object_session>
+</dataroot>

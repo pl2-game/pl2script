@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Object_default.xsd" generated="2014-04-18T09:28:00">
+<Object_default>
+<default_id>1</default_id>
+<tag>Script_Done</tag>
+<property>14</property>
+<object>1</object>
+<default>=script_done()</default>
+<enabled>1</enabled>
+<visible>1</visible>
+</Object_default>
+<Object_default>
+<default_id>2</default_id>
+<tag>main_bag</tag>
+<property>17</property>
+<object>3</object>
+<enabled>1</enabled>
+<visible>1</visible>
+</Object_default>
+</dataroot>

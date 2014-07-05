@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Class_default.xsd" generated="2014-04-18T09:17:12">
+<Class_default>
+<definition_id>1</definition_id>
+<tag>default_Product_take</tag>
+<class>6</class>
+<property>18</property>
+<default>=take_product()</default>
+</Class_default>
+</dataroot>

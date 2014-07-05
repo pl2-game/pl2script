@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Possibility.xsd" generated="2014-04-18T09:13:24">
+<Possibility>
+<possibility_id>1</possibility_id>
+<possibility_name>see</possibility_name>
+<local>взгляд</local>
+<always>1</always>
+<default>ничего не вижу</default>
+</Possibility>
+<Possibility>
+<possibility_id>2</possibility_id>
+<possibility_name>action</possibility_name>
+<local>действие</local>
+<always>1</always>
+<default>не могу выполнить</default>
+</Possibility>
+<Possibility>
+<possibility_id>3</possibility_id>
+<possibility_name>using</possibility_name>
+<local>применить</local>
+<always>1</always>
+<default>не могу применить</default>
+</Possibility>
+<Possibility>
+<possibility_id>4</possibility_id>
+<possibility_name>lens</possibility_name>
+<local>рассмотреть</local>
+<always>1</always>
+<default>не могу рассмотреть</default>
+</Possibility>
+<Possibility>
+<possibility_id>5</possibility_id>
+<possibility_name>analise</possibility_name>
+<local>обьяснить</local>
+<always>1</always>
+<default>не понимаю, из чего состоит</default>
+</Possibility>
+<Possibility>
+<possibility_id>6</possibility_id>
+<possibility_name>history</possibility_name>
+<local>справочник</local>
+<always>1</always>
+<default>в энциклопедии ничего не написано</default>
+</Possibility>
+<Possibility>
+<possibility_id>7</possibility_id>
+<possibility_name>synthesis</possibility_name>
+<local>синтез</local>
+<always>1</always>
+<default>не понимаю, как это применить</default>
+</Possibility>
+<Possibility>
+<possibility_id>8</possibility_id>
+<possibility_name>in</possibility_name>
+<local>войти</local>
+<always>0</always>
+<default>вход</default>
+</Possibility>
+<Possibility>
+<possibility_id>9</possibility_id>
+<possibility_name>out</possibility_name>
+<local>выйти</local>
+<always>0</always>
+<default>выход</default>
+</Possibility>
+<Possibility>
+<possibility_id>10</possibility_id>
+<possibility_name>back</possibility_name>
+<local>назад</local>
+<always>0</always>
+<default>возвращение</default>
+</Possibility>
+<Possibility>
+<possibility_id>11</possibility_id>
+<possibility_name>done</possibility_name>
+<local>завершить</local>
+<always>0</always>
+<default>обучение завершено</default>
+</Possibility>
+<Possibility>
+<possibility_id>12</possibility_id>
+<possibility_name>save</possibility_name>
+<local>сохранить</local>
+<always>0</always>
+<default>сохранение выполнено</default>
+</Possibility>
+<Possibility>
+<possibility_id>13</possibility_id>
+<possibility_name>restory</possibility_name>
+<local>восстановить</local>
+<always>0</always>
+<default>восстановление выполнено</default>
+</Possibility>
+</dataroot>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Object.xsd" generated="2014-04-18T09:28:41">
+<Object>
+<object_id>3</object_id>
+<tag>main_bag</tag>
+<class>5</class>
+<description>Предметы</description>
+<message>Начальный набор элементов</message>
+</Object>
+<Object>
+<object_id>4</object_id>
+<tag>enciclopedy</tag>
+<class>6</class>
+<description>Энциклопедия</description>
+<message>Информация об объектах</message>
+</Object>
+<Object>
+<object_id>1</object_id>
+<tag>script_main</tag>
+<class>1</class>
+<description>Главный сценарий</description>
+<message>Начало выполнения сценария</message>
+</Object>
+<Object>
+<object_id>2</object_id>
+<tag>main_scene</tag>
+<class>3</class>
+<description>Главная сцена</description>
+<message>Сцена начала</message>
+</Object>
+</dataroot>
