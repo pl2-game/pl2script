@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Property.xsd" generated="2014-04-18T09:09:37">
+<Property>
+<property_id>1</property_id>
+<tag>class_Learner_Name</tag>
+<class>2</class>
+<property_name>name</property_name>
+<local>Имя</local>
+<domain>7</domain>
+<description>Имя ученика</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>2</property_id>
+<tag>class_Scene_Name</tag>
+<class>3</class>
+<property_name>name</property_name>
+<local>Имя</local>
+<domain>7</domain>
+<description>Название сцены</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>3</property_id>
+<tag>class_Dialog_Name</tag>
+<class>7</class>
+<property_name>name</property_name>
+<local>Имя</local>
+<domain>7</domain>
+<description>Имя диалога</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>4</property_id>
+<tag>class_Product_Name</tag>
+<class>6</class>
+<property_name>name</property_name>
+<local>Имя</local>
+<domain>7</domain>
+<description>Название предмета</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>5</property_id>
+<tag>class_Dialog_Prompt</tag>
+<class>7</class>
+<property_name>prompt</property_name>
+<local>Приглашения</local>
+<domain>3</domain>
+<member>8</member>
+<description>Список приглашений в диалоге</description>
+<save>0</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>6</property_id>
+<tag>class_Scene_Way</tag>
+<class>3</class>
+<property_name>way</property_name>
+<local>Пути</local>
+<domain>3</domain>
+<member>4</member>
+<description>Список путей из сцены</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>7</property_id>
+<tag>class_Path_Source</tag>
+<class>4</class>
+<property_name>source</property_name>
+<local>Исходный</local>
+<domain>7</domain>
+<description>Путь к другой сцене</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>8</property_id>
+<tag>class_Path_Prompt</tag>
+<class>4</class>
+<property_name>prompt</property_name>
+<local>Приглашение</local>
+<domain>7</domain>
+<description>Название свойства</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>9</property_id>
+<tag>class_Fact_Name</tag>
+<class>9</class>
+<property_name>name</property_name>
+<local>Имя</local>
+<domain>7</domain>
+<description>Имя факта</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>10</property_id>
+<tag>class_Fact_Check</tag>
+<class>9</class>
+<property_name>check</property_name>
+<local>Билет</local>
+<domain>3</domain>
+<member>10</member>
+<description>Ответы на вопрос</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>11</property_id>
+<tag>class_Answer_Result</tag>
+<class>10</class>
+<property_name>result</property_name>
+<local>Оценка</local>
+<domain>5</domain>
+<description>Оценка за ответ</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>12</property_id>
+<tag>class_Fact_Text</tag>
+<class>9</class>
+<property_name>text</property_name>
+<local>Текст</local>
+<domain>7</domain>
+<description>Текст вопроса</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>13</property_id>
+<tag>class_Answer_Text</tag>
+<class>10</class>
+<property_name>text</property_name>
+<local>текст</local>
+<domain>7</domain>
+<description>Текст ответа на вопрос</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>14</property_id>
+<tag>class_Script_Scene</tag>
+<class>1</class>
+<property_name>scene</property_name>
+<local>сцена</local>
+<domain>7</domain>
+<description>Главная сцена</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>15</property_id>
+<tag>class_Learner_Scene</tag>
+<class>2</class>
+<property_name>scene</property_name>
+<local>сцена</local>
+<domain>7</domain>
+<description>Текущая сцена обучающегося</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>16</property_id>
+<tag>class_Learner_Bag</tag>
+<class>2</class>
+<property_name>bag</property_name>
+<local>набор</local>
+<domain>3</domain>
+<member>6</member>
+<description>Набор предметов обучающегося</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>17</property_id>
+<tag>class_Scene_Bag</tag>
+<class>3</class>
+<property_name>bag</property_name>
+<local>набор</local>
+<domain>3</domain>
+<member>6</member>
+<description>Набор предметов сцены</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>18</property_id>
+<tag>class_Product_Take</tag>
+<class>6</class>
+<property_name>take</property_name>
+<local>брать</local>
+<domain>4</domain>
+<description>Предмет можно переносить между сценами</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+<Property>
+<property_id>19</property_id>
+<tag>class_Product_Scene</tag>
+<class>6</class>
+<property_name>scene</property_name>
+<local>сцена</local>
+<domain>7</domain>
+<description>Сцена сохранения предмета</description>
+<save>1</save>
+<class_only>1</class_only>
+</Property>
+</dataroot>

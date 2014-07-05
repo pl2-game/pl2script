@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Action.xsd" generated="2014-04-18T09:27:46">
+<Action>
+<action_id>1</action_id>
+<object>1</object>
+<possibility>11</possibility>
+<default>=script_done()</default>
+</Action>
+</dataroot>

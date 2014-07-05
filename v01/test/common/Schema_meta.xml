@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Schema_meta.xsd" generated="2014-04-18T10:05:20">
+<Schema_meta>
+<Table_Name>Schema_list</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelLevel</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhase</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhaseLevel</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Models</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>-</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>B</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<auto_incriment>0</auto_incriment>
+<look_schema>MODEL</look_schema>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_list</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>schema_name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_list</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>schema_path</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>Table_Name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>Field_Pos</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>Field_name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>Field_Type</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>Field_Len</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>6</Field_Pos>
+<Field_name>Field_Dec</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>7</Field_Pos>
+<Field_name>Field_Type_Paradox</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>8</Field_Pos>
+<Field_name>Comment</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>9</Field_Pos>
+<Field_name>Look_Table</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<look_table>Schema_list</look_table>
+<look_field>Table_Name</look_field>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>10</Field_Pos>
+<Field_name>Look_Field</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<look_table>Schema_list</look_table>
+<look_field>Field_name</look_field>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>11</Field_Pos>
+<Field_name>Disp_Field</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<look_table>Schema_list</look_table>
+<look_field>Field_name</look_field>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>12</Field_Pos>
+<Field_name>auto_incriment</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>13</Field_Pos>
+<Field_name>Динамичность</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>14</Field_Pos>
+<Field_name>Область возможных значений</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>15</Field_Pos>
+<Field_name>Caption</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>16</Field_Pos>
+<Field_name>Header</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>17</Field_Pos>
+<Field_name>Ключ</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>255</Field_Pos>
+<Field_name>Look_Base</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelLevel</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>LevelId</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Уровень</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Уровень</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelLevel</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>LevelName</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Навзвание уровня</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Навзвание уровня</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelLevel</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>LevelAbstractionRating</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Значение абстрагирования</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение абстрагирования</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhase</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>PhaseId</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Фаза</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Фаза</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhase</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>PhaseName</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название фазы</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название фазы</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhase</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>DemingName</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название по циклу Деминга</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название по циклу Деминга</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhase</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>PhaseRate</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Значение фазы рациональности</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение фазы рациональности</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhaseLevel</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>PhaseLevelId</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Фаза-Уровень</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Фаза-Уровень</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhaseLevel</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>PhaseLevelName</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название сочетания фазы и уровня</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название сочетания фазы и уровня</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhaseLevel</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>LevelId</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Уровень</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Уровень</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>ModelPhaseLevel</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>PhaseId</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Фаза</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Фаза</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Models</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>ModelId</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Модель</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Модель</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Models</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>ModelName</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Навзание модели</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Навзание модели</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Models</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>ModelLetter</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Символ диаграмм модели</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Символ диаграмм модели</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Action</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Action</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>action_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор действия</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор действия</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Action</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>object</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Объект</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Объект</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Action</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>possibility</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Вид действия</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Вид действия</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Action</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>default</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Действие по умолчанию</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Действие по умолчанию</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>class_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>tag</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Тег класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тег класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>class_name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Имя класса на английском</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Имя класса на английском</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>local</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Имя класса на русском</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Имя класса на русском</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>description</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Описание класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Описание класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class</Table_Name>
+<Field_Pos>6</Field_Pos>
+<Field_name>savable</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<comment>Признак сохранение в состоянии</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Признак сохранение в состоянии</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class_default</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class_default</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>definition_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор значения по умолчанию для класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор значения по умолчанию для класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class_default</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>tag</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Тег значения по умолчанию</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тег значения по умолчанию</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class_default</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>class</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Класс свойства</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Класс свойства</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class_default</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>property</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Свойство для значения по умолчанию для всех объектов класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Свойство для значения по умолчанию для всех объектов класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Class_default</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>default</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Значение свойства для класса по умолчанию</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение свойства для класса по умолчанию</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_list</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>access_write</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Schema_meta</Table_Name>
+<Field_Pos>18</Field_Pos>
+<Field_name>look_schema</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>collection_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>object_default</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Значение свойства, отражаемого в колекции (тип &quot;tuple&quot;)</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение свойства, отражаемого в колекции (тип &quot;tuple&quot;)</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>position</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Номер в строке выбора для элемента коллекции</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Номер в строке выбора для элемента коллекции</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>object</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Объект, входящий в коллекцию</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Объект, входящий в коллекцию</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection_session</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection_session</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>collection_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection_session</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>object_default</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Значение свойства, отражаемого в колекции (тип &quot;tuple&quot;)</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение свойства, отражаемого в колекции (тип &quot;tuple&quot;)</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection_session</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>position</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Номер в строке выбора для элемента коллекции</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Номер в строке выбора для элемента коллекции</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Collection_session</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>object</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Объект, входящий в коллекцию</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Объект, входящий в коллекцию</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Domain</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Domain</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>domain_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор типа значения</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор типа значения</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Domain</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>domain_name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название типа значения</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название типа значения</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>object_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>tag</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Тег объекта</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тег объекта</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>class</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Класс объекта</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Класс объекта</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>description</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Описание объекта</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Описание объекта</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>message</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Сообщение при выборе объекта</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Сообщение при выборе объекта</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>default_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор значения свойства при инициализации</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор значения свойства при инициализации</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>tag</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Тег значения свяйства объекта при инициализации</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тег значения свяйства объекта при инициализации</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>property</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор свойства из списка свойств наследуемого класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор свойства из списка свойств наследуемого класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>object</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Объект, для которого задается значение</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Объект, для которого задается значение</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>default</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Значение свойства объекта при инициализации</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение свойства объекта при инициализации</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>6</Field_Pos>
+<Field_name>enabled</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_default</Table_Name>
+<Field_Pos>7</Field_Pos>
+<Field_name>visible</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>default_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор значения свойства при инициализации</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор значения свойства при инициализации</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>tag</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Тег значения свяйства объекта при инициализации</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тег значения свяйства объекта при инициализации</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>property</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор свойства из списка свойств наследуемого класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор свойства из списка свойств наследуемого класса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>object</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Объект, для которого задается значение</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Объект, для которого задается значение</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>current</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Значение свойства объекта при инициализации</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Значение свойства объекта при инициализации</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>6</Field_Pos>
+<Field_name>enabled</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Object_session</Table_Name>
+<Field_Pos>7</Field_Pos>
+<Field_name>visible</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Possibility</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Possibility</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>possibility_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор действия</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор действия</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Possibility</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>possibility_name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название возможности на английском</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название возможности на английском</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Possibility</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>local</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название возможности на русском</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название возможности на русском</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Possibility</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>always</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<comment>Признак того, что действие применимо ко всем объектам</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Признак того, что действие применимо ко всем объектам</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Possibility</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>default</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Сообщение по умолчанию для действия</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Сообщение по умолчанию для действия</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>0</Field_Pos>
+<Field_name>-</Field_name>
+<Field_Type>T</Field_Type>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<comment></comment>
+<auto_incriment>0</auto_incriment>
+<Caption></Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>1</Field_Pos>
+<Field_name>property_id</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Идентификатор свойства</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Идентификатор свойства</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>2</Field_Pos>
+<Field_name>tag</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Тег свойства</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тег свойства</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>3</Field_Pos>
+<Field_name>class</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Класс, к которому относится свойство</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Класс, к которому относится свойство</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>4</Field_Pos>
+<Field_name>property_name</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название свойства на английском</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название свойства на английском</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>5</Field_Pos>
+<Field_name>local</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<comment>Название свойства на русском</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Название свойства на русском</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>6</Field_Pos>
+<Field_name>domain</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Тип свойства</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Тип свойства</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>7</Field_Pos>
+<Field_name>member</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>4</Field_Type_Paradox>
+<comment>Класс элементов коллекции</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Класс элементов коллекции</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>8</Field_Pos>
+<Field_name>description</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>10</Field_Type_Paradox>
+<auto_incriment>0</auto_incriment>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>9</Field_Pos>
+<Field_name>save</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<comment>Свойство сохраняется при сохранении сеанса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>Свойство сохраняется при сохранении сеанса</Caption>
+</Schema_meta>
+<Schema_meta>
+<Table_Name>Property</Table_Name>
+<Field_Pos>10</Field_Pos>
+<Field_name>class_only</Field_name>
+<Field_Len>0</Field_Len>
+<Field_Dec>0</Field_Dec>
+<Field_Type_Paradox>1</Field_Type_Paradox>
+<comment>свойство определяется для всех объектов класса</comment>
+<auto_incriment>0</auto_incriment>
+<Caption>свойство определяется для всех объектов класса</Caption>
+</Schema_meta>
+</dataroot>
